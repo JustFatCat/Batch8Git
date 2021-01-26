@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Hi");
 
         System.out.println("I'm making some changes in my code");
+
+        System.out.println("This row can cause a conflict");
+
     }
 }
